@@ -1,3 +1,4 @@
 <?php
   $nombre = "José Manuel";
-  echo "Hola, soy $nombre";
+  $apellidos = "Batanas Boza";
+  echo "Hola, soy $nombre $apellidos";
